@@ -15,7 +15,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgresql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FNetlify&psig=AOvVaw0Zscq1v_W7_DEEKJpx2sl_&ust=1700241706530000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLDg8IyEyYIDFQAAAAAdAAAAABAE" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 ## 📫 How to reach me: 
