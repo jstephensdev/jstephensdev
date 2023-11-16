@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div align="center">
-<p>- 📫 How to reach me: https://www.linkedin.com/in/jessica-stephens-784b88166/</p>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstephensdev&layout=compact&langs_count=8">
 </div>
@@ -18,6 +17,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgresql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+## 📫 How to reach me: 
+<p>https://www.linkedin.com/in/jessica-stephens-784b88166/</p>
 
 <!--
 **jstephensdev/jstephensdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
