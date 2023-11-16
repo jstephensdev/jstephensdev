@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstephensdev&theme=tokyonight)
-  - 📫 How to reach me: https://www.linkedin.com/in/jessica-stephens-784b88166/
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstephensdev&layout=compact&langs_count=8">
+
+  <br/>
+  <p>- 📫 How to reach me: https://www.linkedin.com/in/jessica-stephens-784b88166/</p>
 </div>
 
 <!--
