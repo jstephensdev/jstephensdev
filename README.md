@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## ⚡ Top Languages:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstephensdev&layout=compact&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstephensdev&layout=compact&langs_count=10">
 
 ## 🧰 Languages and Tools:
 <div>
